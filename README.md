@@ -29,13 +29,22 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ribeiirro&theme=radical&ring=2390f6&fire=2390f6&currStreakLabel=2390f6&sideLabels=2390f6&sideNums=f0f4f7&currStreakNum=f0f4f7&dates=f0f4f7&streakNum=f0f4f7&streakLabel=f0f4f7" height="140" alt="GitHub Streak - José Ribeiro" />
-  <br/><br/>
+<div align="left">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Ribeiirro&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&title=Stars,Followers,Commit,Issues,PullRequest" height="140" alt="GitHub Trophy - José Ribeiro" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ribeiirro&show_icons=true&theme=radical&rank_icon=github&hide_rank=false&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&hide_border=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
+<!-- <div align="center">
+
+
+
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiirro&layout=compact&langs_count=6&hide_progress=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div> -->
+
 
 
 
